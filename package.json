@@ -39,6 +39,7 @@
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.0.x",
     "@stdlib/assert-is-function": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
     "@stdlib/utils-identity-function": "^0.0.x"
   },
