@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import memoize from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-memoize@deno/mod.js';
+import memoize from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-memoize@v0.2.0-deno/mod.js';
 ```
 
 #### memoize( fcn\[, hashFunction] )
@@ -178,7 +178,7 @@ var str = memoized( 'bop' );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
-import memoize from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-memoize@deno/mod.js';
+import memoize from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-memoize@v0.2.0-deno/mod.js';
 
 var fcn;
 var n;
