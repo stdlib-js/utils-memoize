@@ -45,6 +45,7 @@
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-zeros": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
     "@stdlib/math-base-special-ceil": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.3",
